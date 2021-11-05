@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Juho Leinonen",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "juho.leinonen@aalto.fi",
+  "friendly_name": "Suomi24 Prep",
+  "github_user": "juholeinonen",
+  "license": "MIT",
+  "package_name": "suomi24_prep",
+  "project_name": "suomi24-prep",
+  "version": "0.0.0"
+}
